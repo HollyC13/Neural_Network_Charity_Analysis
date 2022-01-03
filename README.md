@@ -47,4 +47,4 @@ No, none of the models achieved the target model performance level of 75% accura
 </p>
 
 ## Summary
-None of the deep-learning neural network models achieved the desired accuracy of 75%.  This is likely due to overfitting.  I recommend using machine learning models on this dataset, beginning with Random Forest algorithm.
+None of the deep-learning neural network models achieved the desired accuracy of 75%.  This is likely due to overfitting.  I recommend using machine learning models on this dataset, beginning with Random Forest algorithm, as machine learning is typically used for predicting outcomes on datasets such as ours, where deep learning is typically used for classifying, identifying and enhancing images.
